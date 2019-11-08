@@ -5,6 +5,10 @@
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+body{
+    background: #333;
+}
+
 .container{
     padding: 0.5rem;
 }
